@@ -27,3 +27,5 @@ STEPS:
      - Project Demo video
  - A tracker also exists that has been used to track the progress of the entire project
  - Refer to the relevant documentation for further details 
+- Project LinkedIn Post:
+- https://www.linkedin.com/feed/update/urn:li:activity:6926829764456448000/
